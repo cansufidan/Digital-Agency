@@ -8,5 +8,5 @@ HTML, CSS, JavaScript and Bootstrap.
 
 <h2> Agency Gif </h2>
 
-![](agency.gif) 
+![](Agency.gif)
 # Digital-Agency
